@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://lty900301.github.io/blog/atom.xml" rel="self"/>
-  <link href="http://lty900301.github.io/blog/"/>
-  <updated>2014-07-13T18:30:44-07:00</updated>
-  <id>http://lty900301.github.io/blog/</id>
+  <title><![CDATA[Geek Reaper]]></title>
+  <link href="http://lty900301.github.io/atom.xml" rel="self"/>
+  <link href="http://lty900301.github.io/"/>
+  <updated>2014-07-13T18:48:16-07:00</updated>
+  <id>http://lty900301.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Josh Luo]]></name>
+    <email><![CDATA[josh.luo@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
