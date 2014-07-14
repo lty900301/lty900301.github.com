@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://lty900301.github.com//sitemap.xml 
