@@ -23,6 +23,8 @@ Now some SimpleLinks, like one to [google] (automagically links to are-you-
 feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to 
 [foldoc: CPU]s at foldoc.  
 
+<!-- more -->
+
 Now some inline markup like _italics_,  **bold**, and `code()`. Note that underscores in 
 words are ignored in Markdown Extra.
 
