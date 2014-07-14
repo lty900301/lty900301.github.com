@@ -4,7 +4,7 @@
   <title><![CDATA[Category: markdown | Geek Reaper]]></title>
   <link href="http://lty900301.github.com/blog/categories/markdown/atom.xml" rel="self"/>
   <link href="http://lty900301.github.com/"/>
-  <updated>2014-07-13T22:27:05-07:00</updated>
+  <updated>2014-07-13T22:48:46-07:00</updated>
   <id>http://lty900301.github.com/</id>
   <author>
     <name><![CDATA[Josh Luo]]></name>
@@ -39,9 +39,6 @@ line (or many), and can drone on for hours.</p>
 Now some SimpleLinks, like one to [google] (automagically links to are-you-
 feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 [foldoc: CPU]s at foldoc.</p>
-
-<!-- more -->
-
 
 <p>Now some inline markup like <em>italics</em>,  <strong>bold</strong>, and <code>code()</code>. Note that underscores in
 words are ignored in Markdown Extra.</p>
