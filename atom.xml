@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Geek Reaper]]></title>
-  <link href="http://lty900301.github.io/atom.xml" rel="self"/>
-  <link href="http://lty900301.github.io/"/>
-  <updated>2014-07-13T18:59:05-07:00</updated>
-  <id>http://lty900301.github.io/</id>
+  <link href="http://lty900301.github.com/atom.xml" rel="self"/>
+  <link href="http://lty900301.github.com/"/>
+  <updated>2014-07-13T19:23:45-07:00</updated>
+  <id>http://lty900301.github.com/</id>
   <author>
     <name><![CDATA[Josh Luo]]></name>
     <email><![CDATA[josh.luo@gmail.com]]></email>
