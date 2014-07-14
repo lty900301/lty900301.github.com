@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Geek Reaper]]></title>
-  <link href="http://lty900301.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: markdown | Geek Reaper]]></title>
+  <link href="http://lty900301.github.com/blog/categories/markdown/atom.xml" rel="self"/>
   <link href="http://lty900301.github.com/"/>
   <updated>2014-07-13T20:32:39-07:00</updated>
   <id>http://lty900301.github.com/</id>
@@ -43,7 +43,7 @@ feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 <p>Now some inline markup like <em>italics</em>,  <strong>bold</strong>, and <code>code()</code>. Note that underscores in
 words are ignored in Markdown Extra.</p>
 
-<p><img src="http://lty900301.github.com/images/email.png" title="Title is optional" alt="picture alt" /></p>
+<p><img src="/images/email.png" title="Title is optional" alt="picture alt" /></p>
 
 <blockquote><p>Blockquotes are like quoted text in email replies</p>
 
